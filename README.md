@@ -29,5 +29,5 @@ Neste jogo clássico, o jogador controla uma cobra que cresce a cada vez que se 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/snake-game.git
+git clone https://github.com/Ezequi105/snake-game.git
 cd snake-game
