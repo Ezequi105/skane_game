@@ -8,7 +8,6 @@ Neste jogo clássico, o jogador controla uma cobra que cresce a cada vez que se 
 
 ## 📷 Captura de Tela
 
-![screenshot](imagens/screenshot.png) <!-- Altere ou remova se não tiver imagem -->
 
 ## 🚀 Funcionalidades
 
